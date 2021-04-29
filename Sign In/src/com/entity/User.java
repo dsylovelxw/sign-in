@@ -13,11 +13,19 @@ private int   gender;//  性别（1:女、 2:男）
 private String   birthday;// 出生日期
 private String  phone;//手机
 private String  address;//地址
- 
+private String ClassName;//班级姓名
 
 private int  age;//年龄
  
 private String  lode_id;// 角色
+
+
+public String getClassName() {
+	return ClassName;
+}
+public void setClassName(String className) {
+	ClassName = className;
+}
 public int getId() {
 	return id;
 }
