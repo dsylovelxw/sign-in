@@ -13,10 +13,10 @@ private int   gender;//  性别（1:女、 2:男）
 private String   birthday;// 出生日期
 private String  phone;//手机
 private String  address;//地址
-private String  bumeng_id;//部门
+ 
 
 private int  age;//年龄
-private String  zhicheng_id;//职务
+ 
 private String  lode_id;// 角色
 public int getId() {
 	return id;
