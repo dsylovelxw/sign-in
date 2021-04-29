@@ -66,24 +66,14 @@ public String getAddress() {
 public void setAddress(String address) {
 	this.address = address;
 }
-public String  getBumeng_id() {
-	return bumeng_id;
-}
-public void setBumeng_id(String  bumeng_id) {
-	this.bumeng_id = bumeng_id;
-}
+ 
 public int getAge() {
 	return age;
 }
 public void setAge(int age) {
 	this.age = age;
 }
-public String getZhicheng_id() {
-	return zhicheng_id;
-}
-public void setZhicheng_id(String zhicheng_id) {
-	this.zhicheng_id = zhicheng_id;
-}
+ 
 public String getLode_id() {
 	return lode_id;
 }
